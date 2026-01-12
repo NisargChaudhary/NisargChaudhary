@@ -1,4 +1,4 @@
-## Hi there 👋# Hi there, I'm [Your Name]! 👋
+## Hi there, I'm Nisarg Chaudhary! 👋
 
 ### 👨‍💻 About Me
 - 🎓 I'm currently a **3rd Year Student** at **Parul University**.
