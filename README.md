@@ -21,12 +21,12 @@
 
 ### 📊 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=radical" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[NisargChaudhary]&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[NisargChaudhary]&theme=radical" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[NisargChaudhary]&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <!--
