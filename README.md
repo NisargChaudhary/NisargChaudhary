@@ -1,10 +1,10 @@
 ## Hi there 👋# Hi there, I'm [Your Name]! 👋
 
 ### 👨‍💻 About Me
-- 🎓 I'm currently a **3rd Year Student** at **[Parul University]**.
-- 🔭 I’m currently working on **[AI/ML models]**.
-- 🌱 I’m currently learning **[MEAN stack, React, AWS]**.
-- 👯 I’m looking to collaborate on **[Open Source projects]**.
+- 🎓 I'm currently a **3rd Year Student** at **Parul University**.
+- 🔭 I’m currently working on **AI/ML models**.
+- 🌱 I’m currently learning **MEAN stack, React, AWS**.
+- 👯 I’m looking to collaborate on **Open Source projects**.
 - 💬 Ask me about **Python, JavaScript**.
 
 ---
